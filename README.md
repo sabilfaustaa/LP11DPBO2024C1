@@ -49,4 +49,4 @@ telp: Atribut ini menyimpan nomor telepon pasien. Ini adalah string yang digunak
 
 # Dokumentasi
 
-<video controls src="To Do List - Google Chrome 2024-05-05 22-26-16.mp4" title="Title"></video>
+![alt text](dokumentasi.gif)
